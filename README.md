@@ -7,7 +7,7 @@ dasf.epf 파일 다운 받고
 (단축키 Alt + F + I + Preferences)
 
 ## 주의
-개인적인 용도로 사용되었으며 모든 설정은 백업 후에 적용 권장
+개인적인 용도로 제작되었으며 모든 설정은 백업 후에 적용 권장
 
 ## Thanks for
 perplexity.ai
